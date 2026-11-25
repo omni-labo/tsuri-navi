@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omni-labo.github.io/tsuri-navi/sitemap.xml
